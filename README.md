@@ -1,4 +1,4 @@
-ola-k-ase-y-u-no-open-source
+y-u-no-drupal
 ============================
 
-Charla de presentación de grupo mxlOS
+Charla introducción de Drupal para el DrupalDayDF 2013
